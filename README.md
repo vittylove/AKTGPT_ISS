@@ -1,4 +1,4 @@
-# Demo App using Streamlit
+# ASKGPT
 
 This is a simple demo application built with Haystack and Streamlit. It showcases the basic functionality of the application.
 
