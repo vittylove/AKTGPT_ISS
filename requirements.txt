@@ -1,0 +1,2 @@
+django_haystack==3.2.1
+streamlit==1.23.1
